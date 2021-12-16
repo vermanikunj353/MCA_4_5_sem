@@ -1,0 +1,3 @@
+senior high yes fair yes
+youth high yes fair yes
+middle low no excellent yes

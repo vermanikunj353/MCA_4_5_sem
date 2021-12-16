@@ -1,0 +1,15 @@
+Validation Data
+
+age income student credit_rating Class:buys_computer 
+senior low no fair no 
+P(no/X) : 0.0426667
+P(yes/X) : 0.0740741
+Predction : yes
+youth low yes excellent yes 
+P(no/X) : 0.024
+P(yes/X) : 0.0493827
+Predction : yes
+middle_aged low yes fair yes 
+P(no/X) : 0
+P(yes/X) : 0.197531
+Predction : yes

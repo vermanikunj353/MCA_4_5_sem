@@ -1,0 +1,7 @@
+age	income	student	credit_rating
+senior	low	no	fair
+youth	low	yes	excellent
+middle_aged	low	yes	fair
+senior	high	yes	fair
+youth	high	yes	fair
+middle_aged	low	no	excellent

@@ -1,0 +1,15 @@
+Testing Data
+
+age income student credit_rating 
+senior high yes fair 
+P(no/X) : 0.0213333
+P(yes/X) : 0.0987654
+Predction : yes
+youth high yes fair 
+P(no/X) : 0.032
+P(yes/X) : 0.0658436
+Predction : yes
+middle_aged low no excellent 
+P(no/X) : 0
+P(yes/X) : 0.0493827
+Predction : yes

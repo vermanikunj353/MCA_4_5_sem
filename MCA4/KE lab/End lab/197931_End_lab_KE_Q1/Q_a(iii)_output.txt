@@ -1,0 +1,10 @@
+Nikunj Verma
+Roll No.197931
+
+Bin Size is: 3
+
+After smoothing by equi_width
+
+22 25 25 16 19 25 30 25 30 20 20 21 22 13 30 16 
+35 36 45 35 46 33 33 35 35 
+52 70 

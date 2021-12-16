@@ -1,6 +1,0 @@
-Nikunj Verma
-Roll No.197931
-
-Quartiles are:
-1st Quartile: 21
-3rd Quartile: 35

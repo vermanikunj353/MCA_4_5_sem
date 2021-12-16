@@ -1,7 +1,0 @@
-age	income	student	credit_rating	class:buys_computer
-senior	low	no	fair	yes
-youth	low	yes	excellent	yes
-middle_aged	low	yes	fair	yes
-senior	high	yes	fair	yes
-youth	high	yes	fair	yes
-middle_aged	low	no	excellent	yes

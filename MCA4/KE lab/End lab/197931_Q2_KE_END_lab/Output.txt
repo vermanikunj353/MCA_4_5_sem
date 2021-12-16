@@ -1,3 +1,0 @@
-senior high yes Fair yes
-youth high yes Fair yes
-middle_aged low no excellent yes
